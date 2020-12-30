@@ -5,3 +5,5 @@ The repository contains the following architectures:
 * ResNeXt
 * ResNet
 * VGG
+
+The code has been extracted from the original research papers
