@@ -5,5 +5,6 @@ The repository contains the following architectures:
 * ResNeXt
 * ResNet
 * VGG
+* GoogLeNet
 
 The code has been extracted from the original research papers
